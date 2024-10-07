@@ -1,0 +1,219 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+
+body {
+  font-family: sans-serif;
+  background-image: linear-gradient(
+    white,
+    rgb(252, 231, 253),
+    rgb(255, 192, 247)
+  );
+  margin: 0%;
+}
+
+header {
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+  text-shadow: white;
+  margin-bottom: 20px;
+  background-image: url(https://kalix.club/uploads/posts/2023-12/thumbs/1703009757_kalix-club-p-fon-ramka-tsveti-oboi-foni-39.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+}
+header h2 {
+  text-align: center;
+  color: #b49702;
+  font-family: Jura;
+  text-shadow: 0px 0px 20px red;
+}
+
+.nachalo {
+  background-color: #ffffff;
+}
+
+.logo {
+  height: 200px;
+  width: 200px;
+}
+
+.h1 {
+  margin-left: 100px;
+  height: 150px;
+  position: relative;
+  width: 300px;
+  left: 265px;
+}
+
+nav {
+  display: flex;
+  padding: 25px 100px 25px 95px;
+  justify-content: space-between;
+}
+
+.nav-link {
+  transition: 0.7s;
+  font-size: 19px;
+  text-decoration: none;
+  background-color: #ffffff;
+  margin-bottom: 90px;
+  padding: 10px;
+  color: #b49702;
+}
+
+.button {
+  margin-top: 90px;
+  background-color: #efb6d2;
+  border-radius: 40px;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 19px;
+  text-decoration: none;
+  color: #862d4c;
+}
+
+main {
+  padding-left: 50px;
+}
+
+.flowers img {
+  border-radius: 10px;
+}
+
+main h2 {
+  text-align: center;
+  font-family: Jura;
+  color: #b49702;
+  background-color: #ffffff;
+  border-radius: 10%;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.flowers img {
+  height: 230px;
+  width: 230px;
+}
+
+.flowers1,
+.flowers2,
+.flowers3 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card {
+  text-align: center;
+  font-family: Jura;
+  font-size: larger;
+}
+
+.card p {
+  font-family: "Great Vibes", cursive;
+}
+
+.app {
+  justify-content: center;
+  background-image: url(https://img.freepik.com/free-vector/floral-line-art-flat-design-background_79603-2403.jpg?semt=ais_hybrid);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: flex;
+  margin: 50px;
+  padding-top: 20px;
+  color: #b49702;
+}
+
+.apps {
+  width: 300px;
+  height: 300px;
+}
+
+.kwit {
+  position: relative;
+  right: 210px;
+  bottom: 230px;
+  width: 190px;
+  height: 190px;
+}
+
+.list {
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+  color: rgb(37, 37, 37);
+  margin-bottom: 50px;
+  font-weight: lighter;
+}
+
+.point {
+  text-align: center;
+  font-family: "Great Vibes", cursive;
+}
+
+h1 {
+  text-align: center;
+  color: #862d4c;
+  font-family: Jura;
+  font-size: 30px;
+}
+
+.stickers {
+  height: 90px;
+  width: 90px;
+}
+
+.text h1 {
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.text {
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 15px;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+  margin: 20px;
+  padding: 10px;
+}
+
+.png {
+  position: relative;
+  left: 150px;
+}
+
+.final {
+  width: 1200px;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+.numbers {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.location {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+h3 {
+  text-align: center;
+  font-size: medium;
+}
+
+footer img {
+  margin: 5px;
+  width: 40px;
+  height: 40px;
+}
+
+footer {
+  font-size: 16px;
+  background-color: #ffffff;
+  padding: 30px;
+}
