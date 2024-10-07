@@ -10,6 +10,32 @@ body {
   margin: 0%;
 }
 
+header h2:hover{
+    color: #5c1f34;
+}
+
+.nav-link:hover{
+    background-color: #5c1f34;
+    color: #ffffff;
+}
+
+.nav-link:focus {
+    background-color: #000000;
+    color: #ffffff;
+    border-bottom: 5px dotted white ;
+}
+
+.button:hover{
+    background-color: #b49702;
+    color: white;
+}
+
+.button:focus{
+    background-color: #ffd500;
+    color: white;
+    text-decoration: underline wavy white;
+}
+
 header {
   justify-content: space-between;
   align-items: center;
